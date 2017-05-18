@@ -1,9 +1,9 @@
 # Naming
 
 ## Segments
-`ORGANIZATION`: organization operation is associated w/
-`PRODUCT`: product operation is associated w/
-`OPERATION`: what the pkg does
+`ORGANIZATION`: organization operation is associated w/  
+`PRODUCT`: product operation is associated w/  
+`OPERATION`: what the pkg does  
 
 ## Rules
 
