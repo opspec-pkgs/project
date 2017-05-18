@@ -21,10 +21,11 @@ keeps length as short as possible while remaining ubiquitous
 
 Good:
 
-`azure-fn-deploy`
-`git-clean`
+`azure-fn-deploy`  
+`git-clean`  
 
 Bad:
 
-`microsoft-azure-fn-deploy` # microsoft is unnecessary
-`AWS-s3-sync` # AWS doesn't match segment regex (uppercase not allowed)
+`microsoft-azure-fn-deploy` # microsoft is unnecessary  
+`AWS-s3-sync` # AWS doesn't match segment regex (uppercase not allowed)  
+
