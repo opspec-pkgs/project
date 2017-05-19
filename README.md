@@ -13,7 +13,7 @@ keeps names URL safe & allows easily splitting apart segments
 ### Only include `ORGANIZATION` if `PRODUCT` isn't independently ubiquitous
 keeps length as short as possible while remaining ubiquitous
 
-### Separate segments w/ a `-`
+### Separate segments w/ a `.`
 
 ### Order segments as `ORGANIZATION`, `PRODUCT`, and `OPERATION`
 
@@ -21,11 +21,10 @@ keeps length as short as possible while remaining ubiquitous
 
 Good:
 
-`azure-fn-deploy`  
-`git-clean`  
+`azure.fn.deploy`  
+`git.clean`  
 
 Bad:
 
-`microsoft-azure-fn-deploy` # microsoft is unnecessary  
-`AWS-s3-sync` # AWS doesn't match segment regex (uppercase not allowed)  
+`AWS.s3.sync` # AWS doesn't match segment regex (uppercase not allowed)  
 
