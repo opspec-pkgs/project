@@ -1,4 +1,4 @@
-# Naming
+# Package Naming
 
 ## Segments
 `ORGANIZATION`: organization operation is associated w/  
