@@ -27,13 +27,16 @@ keeps length as short as possible while remaining ubiquitous
 # images
 
 ## use an "official" image when possible
+removes need for package maintenance, unless necessary
 
 ## if no "official" image, [maintain an image](#maintaining-an-image) for your pkg
+maintains a trustworthy dependency chain
 
-# maintaining an image
+## if maintaining an image, use pkg name as image name
+ensures purpose of image is clear
 
-if maintaining an image for your package is required, this section applies
+## if maintaining an image, use pkg version as image tag
+ensures stability of image
 
-## use pkg name as image name & pkg version as image tag
-
-## publish the image to [https://hub.docker.com/u/opspecpkgs/](https://hub.docker.com/u/opspecpkgs/)
+## if maintaining an image, publish the image to [https://hub.docker.com/u/opspecpkgs/](https://hub.docker.com/u/opspecpkgs/)
+keeps all packages in a single namespace in docker w/ shared access by opspec-pkgs contributors
