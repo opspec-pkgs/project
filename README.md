@@ -29,7 +29,7 @@ keeps length as short as possible while remaining ubiquitous
 ## use an "official" image when possible
 removes need for package maintenance, unless necessary
 
-## if no "official" image, [maintain an image](#maintaining-an-image) for your pkg
+## if no "official" image, maintain an image for your pkg
 maintains a trustworthy dependency chain
 
 ## if maintaining an image, use pkg name as image name
