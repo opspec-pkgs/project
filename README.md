@@ -24,5 +24,16 @@ keeps length as short as possible while remaining ubiquitous
 #### good
 `azure.fn.deploy`
 
+# images
 
+## use an "official" image when possible
 
+## if no "official" image, [maintain an image](#maintaining-an-image) for your pkg
+
+# maintaining an image
+
+if maintaining an image for your package is required, this section applies
+
+## use pkg name as image name & pkg version as image tag
+
+## publish the image to [https://hub.docker.com/u/opspecpkgs/](https://hub.docker.com/u/opspecpkgs/)
