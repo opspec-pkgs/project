@@ -32,10 +32,10 @@ removes need for package maintenance, unless necessary
 ## if no "official" image, maintain an image for your pkg
 maintains a trustworthy dependency chain
 
-## if maintaining an image, use pkg name as image name
+## if maintaining an image, use pkg name as name
 ensures purpose of image is clear
 
-## if maintaining an image, use pkg version as image tag
+## if maintaining an image, use pkg version as tag
 ensures stability of image
 
 ## if maintaining an image, push to [https://hub.docker.com/u/opspecpkgs/](https://hub.docker.com/u/opspecpkgs/)
