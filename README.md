@@ -38,5 +38,5 @@ ensures purpose of image is clear
 ## if maintaining an image, use pkg version as image tag
 ensures stability of image
 
-## if maintaining an image, publish the image to [https://hub.docker.com/u/opspecpkgs/](https://hub.docker.com/u/opspecpkgs/)
+## if maintaining an image, push to [https://hub.docker.com/u/opspecpkgs/](https://hub.docker.com/u/opspecpkgs/)
 keeps all packages in a single namespace in docker w/ shared access by opspec-pkgs contributors
