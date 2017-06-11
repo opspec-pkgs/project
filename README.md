@@ -1,6 +1,6 @@
 # FAQ
 
-#### q: where can I request a new pkg?
+#### q: how can I request a new pkg?
 a: open an [issue](https://github.com/opspec-pkgs/opspec-pkgs/issues)
 
 #### q: how can I become a pkg contributor?
