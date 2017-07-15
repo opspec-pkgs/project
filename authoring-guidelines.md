@@ -1,4 +1,4 @@
-# package naming
+# Package naming
 
 ## prefix name w/ a hierarchical (broad => specific) `.` separated namespace
 avoids name collisions
@@ -24,7 +24,7 @@ keeps length as short as possible while remaining ubiquitous
 #### good
 `azure.fn.deploy`
 
-# container images
+# Container images
 
 ## use an "official" image when possible
 removes need for package maintenance, unless necessary
