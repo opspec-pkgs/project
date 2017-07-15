@@ -24,7 +24,7 @@ keeps length as short as possible while remaining ubiquitous
 #### good
 `azure.fn.deploy`
 
-# images
+# container images
 
 ## use an "official" image when possible
 removes need for package maintenance, unless necessary
@@ -40,3 +40,4 @@ ensures stability of image
 
 ## if maintaining an image, push to [https://hub.docker.com/u/opspecpkgs/](https://hub.docker.com/u/opspecpkgs/)
 keeps all packages in a single namespace in docker w/ shared access by opspec-pkgs contributors
+
