@@ -4,7 +4,7 @@ For each repo, ops are maintained in [![opspec 0.1.4](https://img.shields.io/bad
 
 They can be consumed via tools like [opctl](https://opctl.io).
 
-# Acceptance criteria
+# Contribution acceptance criteria
 
 Contributions are subject to:
 
