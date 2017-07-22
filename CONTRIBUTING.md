@@ -10,4 +10,4 @@ Contributions are subject to:
 
 - acceptance by 66% of the projects maintainers (see [MAINTAINERS.md](MAINTAINERS.md))
 - the repos [build](.opspec/build) op continuing to run with a successful outcome
-- adherence to [pkg authoring guidelines](authoring-guidelines.md)
+- adherence to [authoring guidelines](authoring-guidelines.md)
