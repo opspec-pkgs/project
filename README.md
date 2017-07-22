@@ -4,10 +4,7 @@
 a: open an [issue](https://github.com/opspec-pkgs/opspec-pkgs/issues)
 
 #### q: how can I become a pkg contributor?
-a: anyone can be a pkg contributor; just open a PR against the pkgs repo
-
-#### q: what are the guidelines for contributing?
-a: see [CONTRIBUTING.md](CONTRIBUTING.md)
+a: anyone can be a pkg contributor; see [CONTRIBUTING.md](CONTRIBUTING.md)
 
 # Support
 
