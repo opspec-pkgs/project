@@ -9,5 +9,5 @@ They can be consumed via tools like [opctl](https://opctl.io).
 Contributions are subject to:
 
 - acceptance by 66% of the projects maintainers (see [MAINTAINERS.md](MAINTAINERS.md))
-- the pkgs [build](.opspec/build) op continuing to run with a successful outcome
+- the repos [build](.opspec/build) op continuing to run with a successful outcome
 - adherence to [pkg authoring guidelines](authoring-guidelines.md)
