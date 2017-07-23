@@ -41,3 +41,7 @@ ensures stability of image
 ## if maintaining an image, push to [https://hub.docker.com/u/opspecpkgs/](https://hub.docker.com/u/opspecpkgs/)
 keeps all packages in a single namespace in docker w/ shared access by opspec-pkgs contributors
 
+# Changelog
+
+## keep a changelog adhering to [keepachangelog.com v1.0.0](http://keepachangelog.com/en/1.0.0/)
+exposes historical changes to the pkg via a popular industry standard format
