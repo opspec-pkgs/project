@@ -8,6 +8,6 @@ They can be consumed via tools like [opctl](https://opctl.io).
 
 Contributions are subject to:
 
-- acceptance by 66% of the projects maintainers (see [MAINTAINERS.md](MAINTAINERS.md))
+- approval of pull request by one or more of the projects maintainers (see [MAINTAINERS.md](MAINTAINERS.md))
 - the repos [build](.opspec/build) op continuing to run with a successful outcome
 - adherence to [authoring guidelines](authoring-guidelines.md)
