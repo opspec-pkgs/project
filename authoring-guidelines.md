@@ -24,6 +24,9 @@ keeps length as short as possible while remaining ubiquitous
 #### good
 `azure.fn.deploy`
 
+#### bad
+`microsoft.azure.fn.deploy` # microsoft prefix unnecessary; azure is already ubiquitous
+
 # Container images
 
 ## use an "official" image when possible
