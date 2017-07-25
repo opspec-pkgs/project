@@ -27,6 +27,10 @@ keeps length as short as possible while remaining ubiquitous
 #### bad
 `microsoft.azure.fn.deploy` # microsoft prefix unnecessary; azure is already ubiquitous
 
+## use terminology of ecosystem pkg interacts w/; don't invent or abbreviate
+keeps ecosystem as source of truth; anyone familiar w/ ecosystem is also familiar w/ pkgs
+
+
 # Container images
 
 ## use an "official" image when possible
