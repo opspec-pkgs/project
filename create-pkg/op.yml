@@ -6,8 +6,8 @@ inputs:
       constraints: { minLength: 1 }
       description: >
         personal access token for github; see
-        https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/ for how to create a github access token &
-        https://docs.travis-ci.com/user/github-oauth-scopes/ for scopes required by travis ci
+        https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/ for how to create a github access token.
+        It will need scopes required by travis-ci: https://docs.travis-ci.com/user/github-oauth-scopes/, and repo scopes
   name:
     string:
       constraints: { minLength: 3 }
