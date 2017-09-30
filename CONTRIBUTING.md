@@ -9,5 +9,9 @@ They can be consumed via tools like [opctl](https://opctl.io).
 Contributions are subject to:
 
 - approval of pull request by one or more of the projects maintainers (see [MAINTAINERS.md](MAINTAINERS.md))
-- the repos [build](.opspec/build) op continuing to run with a successful outcome
+- the repos build op continuing to run with a successful outcome
 - adherence to [authoring guidelines](authoring-guidelines.md)
+
+# How to's
+
+[create a pkg](how-tos.md#create-a-package)
