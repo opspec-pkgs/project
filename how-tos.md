@@ -15,13 +15,13 @@ this will
 - enable travis-ci (finicky.. might need to manually enable until
   [retry added](https://github.com/opspec-pkgs/travis-ci.enable/issues/1))
 
-### step 3
+### step 2
 
 ```shell
 git clone https://github.com/opspec-pkgs/YOUR_PKG_NAME
 ```
 
-### step 4
+### step 3
 
 implement your package !
 
@@ -40,13 +40,13 @@ you can test your pkg via:
 opctl run ../
 ```
 
-make sure to set version to 1.0.0 in the `op.yml` & `REAME.md`
+make sure to set version to 1.0.0 in the `op.yml` & `REAME.md` & update the `CHANGELOG.md`
 
-### step 5
+### step 4
 
 once implementation is complete, create a PR
 
-### step 6
+### step 5
 
 upon acceptance of the PR, create a release via:
 
