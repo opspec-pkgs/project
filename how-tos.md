@@ -12,8 +12,7 @@ this will
 - grant
   [opspec-pkgs/maintainers team](https://github.com/orgs/opspec-pkgs/teams/maintainers/members)
   admin permission
-- enable travis-ci (finicky.. might need to manually enable until
-  [retry added](https://github.com/opspec-pkgs/travis-ci.enable/issues/1))
+- enable travis-ci
 
 ### step 2
 
