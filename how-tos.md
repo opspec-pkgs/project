@@ -3,7 +3,7 @@
 ### step 1
 
 ```shell
-opctl run github.com/opspec-pkgs/_.pkg.create#1.0.0
+opctl run github.com/opspec-pkgs/_.pkg.create#1.0.2
 ```
 
 this will
