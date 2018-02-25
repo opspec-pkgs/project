@@ -10,7 +10,7 @@ opctl run github.com/opspec-pkgs/_.pkg.create#2.0.0
 
 implement your package !
 
-you can test your pkg via:
+you can run your pkg via:
 
 ```shell
 opctl run ../
@@ -21,6 +21,9 @@ if your pkg requires a custom container image, you can provision it via:
 ```shell
 opctl run provision-image
 ```
+
+[include an icon in your pkg](https://opspec.io/docs/reference/op.yml/schema/icon.html) to give it swag. Icons MUST be square dimensions, have transparent background, and be SVG. 
+> tip: you can easily convert from raster formats to svg via [vectorizer.io](https://www.vectorizer.io/)
 
 ### step 3
 
