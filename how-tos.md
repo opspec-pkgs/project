@@ -16,7 +16,7 @@ you can test your pkg via:
 opctl run ../
 ```
 
-if your pkg requires a custom base image, you can provision it via:
+if your pkg requires a custom container image, you can provision it via:
 
 ```shell
 opctl run provision-image
