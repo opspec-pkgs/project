@@ -1,28 +1,28 @@
-## Create a package
+## Create an op
 
 ### step 1
 
 ```shell
-opctl run github.com/opspec-pkgs/_.pkg.create#2.0.0
+opctl run github.com/opspec-pkgs/_.op.create#2.0.0
 ```
 
 ### step 2
 
-implement your package !
+implement your op !
 
-you can run your pkg via:
+you can run your op via:
 
 ```shell
 opctl run ../
 ```
 
-if your pkg requires a custom container image, you can provision it via:
+if your op requires a custom container image, you can provision it via:
 
 ```shell
 opctl run provision-image
 ```
 
-[include an icon in your pkg](https://opspec.io/docs/reference/op.yml/schema/icon.html) to give it swag. Icons MUST be square dimensions, have transparent background, and be SVG. 
+[include an icon in your op](https://opspec.io/docs/reference/op.yml/schema/icon.html) to give it swag. Icons MUST be square dimensions, have transparent background, and be SVG. 
 > tip: you can easily convert from raster formats to svg via [vectorizer.io](https://www.vectorizer.io/)
 
 ### step 3
