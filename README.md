@@ -1,10 +1,10 @@
 # FAQ
 
-#### q: how can I request a new pkg?
-a: open an [issue](https://github.com/opspec-pkgs/opspec-pkgs/issues)
+#### q: how can I request a new op?
+a: open an [issue](https://github.com/opspec-pkgs/project/issues)
 
-#### q: how can I become a pkg contributor?
-a: anyone can contribute to pkg's; see [CONTRIBUTING.md](CONTRIBUTING.md) for details
+#### q: how can I contribute to an op?
+a: anyone can contribute to any op; see [CONTRIBUTING.md](CONTRIBUTING.md) for details
 
 # Support
 
