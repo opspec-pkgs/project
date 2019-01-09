@@ -22,7 +22,7 @@ if your op requires a custom container image, you can provision it via:
 opctl run provision-image
 ```
 
-[include an icon in your op](https://opspec.io/docs/reference/op.yml/schema/icon.html) to give it swag. Icons MUST be square dimensions, have transparent background, and be SVG. 
+[include an icon in your op](https://opctl.io/docs/reference/op-definition-format/icon.svg/) to give it swag. Icons MUST be square dimensions, have transparent background, and be SVG. 
 > tip: you can easily convert from raster formats to svg via [vectorizer.io](https://www.vectorizer.io/)
 
 ### step 3
