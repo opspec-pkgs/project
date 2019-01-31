@@ -48,6 +48,10 @@ already ubiquitous
 keeps ecosystem as source of truth; anyone familiar w/ ecosystem is also
 familiar w/ pkgs
 
+## 1.4 if "official" CLI exists, use its command hierarcy as name
+
+keeps official CLI as source of truth; anyone familiar w/ offfial CLI is also
+familiar w/ pkgs
 
 # 2. Container images
 
