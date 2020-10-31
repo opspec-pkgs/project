@@ -3,7 +3,7 @@
 ### step 1
 
 ```shell
-opctl run github.com/opspec-pkgs/_.op.create#3.3.0
+opctl run github.com/opspec-pkgs/_.op.create#3.3.1
 ```
 
 ### step 2
